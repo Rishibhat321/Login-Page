@@ -1,0 +1,45 @@
+.container{
+   height:500px;
+    width:400px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+    flex-wrap: wrap;
+    background-color: bisque;   
+    margin-left:550px;
+    margin-top:100px;
+}
+
+.mail{
+height:40px;
+width:280px;
+}
+
+.password{
+    height:40px;
+    width:280px;
+}
+
+.btn{
+    width:280px;
+    height:45px;
+    background-color: red;
+    color:whitesmoke;
+    font-size: 1.5em;
+    border-radius: 2%;
+    border:1px solid black;
+    
+}
+.sign{
+    margin-top:-45px;
+}
+.formerror{
+    color:red;
+    margin-top:0px;
+}
+
+.name{
+    height:40px;
+width:280px;
+}
